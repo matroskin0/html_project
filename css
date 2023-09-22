@@ -1,0 +1,1017 @@
+.base {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 494px;
+}
+.copyright-2020-by {
+  position: absolute;
+  top: 417px;
+  left: 478px;
+  font-size: var(--font-size-lg);
+  color: #b0b5b4;
+}
+.logo-icon {
+  position: absolute;
+  top: 131px;
+  left: 135px;
+  width: 127px;
+  height: 37px;
+}
+.about,
+.company {
+  position: absolute;
+  left: 0;
+}
+.company {
+  top: 0;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-darkslategray-200);
+}
+.about {
+  top: 52px;
+}
+.careers,
+.company-parent,
+.press {
+  position: absolute;
+  top: 96px;
+  left: 0;
+}
+.company-parent,
+.press {
+  top: 139px;
+}
+.company-parent {
+  top: 131px;
+  left: 406px;
+  width: 91px;
+  height: 163px;
+}
+.blog,
+.team-plans {
+  position: absolute;
+  top: 53px;
+  left: 0;
+}
+.blog {
+  top: 95px;
+}
+.schoolarships,
+.students {
+  position: absolute;
+  top: 140px;
+  left: 0;
+}
+.schoolarships {
+  top: 182px;
+}
+.community-parent,
+.teaching-parent {
+  position: absolute;
+  top: 131px;
+  left: 641px;
+  width: 113px;
+  height: 206px;
+}
+.teaching-parent {
+  left: 898px;
+  width: 157px;
+  height: 119px;
+}
+.linkedin1 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+}
+.linkedin,
+.linkedin-child {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.linkedin {
+  top: 171px;
+  width: 94px;
+  height: 24px;
+}
+.facebook,
+.instagram,
+.social,
+.twitter {
+  position: absolute;
+  top: 129px;
+  left: 0;
+  width: 113px;
+  height: 24px;
+}
+.facebook,
+.social,
+.twitter {
+  top: 87px;
+  width: 108px;
+}
+.social,
+.twitter {
+  top: 45px;
+  width: 83px;
+}
+.social {
+  top: 131px;
+  left: 1192px;
+  width: 113px;
+  height: 195px;
+}
+.footer,
+.footer-elearning-landing-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 494px;
+}
+.footer-elearning-landing-page {
+  top: 3999px;
+  color: var(--color-dimgray-100);
+}
+.base1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #def6f5;
+  width: 1440px;
+  height: 272px;
+}
+.create-your-account {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  display: inline-block;
+  width: 397px;
+}
+.base2,
+.ready-to-get,
+.text {
+  position: absolute;
+  width: 420px;
+}
+.ready-to-get {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-23xl);
+  display: inline-block;
+  color: var(--color-gray-500);
+}
+.base2,
+.text {
+  top: 76px;
+  left: 135px;
+  height: 108px;
+}
+.base2 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: #2ac9bf;
+  width: 186px;
+  height: 68px;
+}
+.get-started {
+  position: absolute;
+  top: 20px;
+  left: 41px;
+  font-weight: 600;
+}
+.button {
+  position: absolute;
+  top: 96px;
+  left: 965px;
+  width: 186px;
+  height: 68px;
+  text-align: center;
+  color: var(--color-white);
+}
+.cta,
+.cta-elearning-landing-page-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 272px;
+}
+.cta-elearning-landing-page-8 {
+  top: 3728px;
+  font-size: var(--font-size-lg);
+}
+.icons {
+  position: absolute;
+  top: 357px;
+  left: 0;
+  width: 130px;
+  height: 50px;
+}
+.span {
+  color: #1f3042;
+}
+.ben-foakes {
+  font-weight: 500;
+}
+.student {
+  color: var(--color-gray-300);
+}
+.ben-foakes-student-container,
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 13px;
+}
+.group-child {
+  top: 11px;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 8px;
+  height: 2px;
+}
+.ben-foakes-student-parent {
+  position: absolute;
+  top: 281px;
+  left: 0;
+  width: 177px;
+  height: 24px;
+}
+.they-are-the {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  font-size: 32px;
+  line-height: 48px;
+  color: #5d6564;
+  display: inline-block;
+  width: 419px;
+}
+.icon,
+.images-icon,
+.text1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 29px;
+}
+.images-icon,
+.text1 {
+  top: 37px;
+  width: 419px;
+  height: 407px;
+}
+.images-icon {
+  top: 0;
+  left: 491px;
+  width: 679px;
+  height: 481px;
+}
+.testimonial,
+.testimonial-elearning-landing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1170px;
+  height: 481px;
+}
+.testimonial-elearning-landing {
+  top: 3117px;
+  left: 135px;
+  color: var(--color-gray-500);
+}
+.b,
+.popular-courses {
+  position: absolute;
+  top: 104px;
+  left: 0;
+}
+.b {
+  top: 0;
+  left: 2px;
+  font-size: var(--font-size-43xl);
+  color: var(--color-gray-400);
+}
+.popular-courses-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 131px;
+}
+.b1,
+.skilled-trainer {
+  position: absolute;
+  top: 104px;
+  left: 19px;
+}
+.b1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-43xl);
+  color: var(--color-gray-400);
+}
+.skilled-trainer-parent {
+  position: absolute;
+  top: 0;
+  left: 348px;
+  width: 161px;
+  height: 131px;
+}
+.m {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  font-size: var(--font-size-43xl);
+  color: var(--color-gray-400);
+}
+.student-learning-parent {
+  position: absolute;
+  top: 0;
+  left: 709px;
+  width: 153px;
+  height: 131px;
+}
+.countdown,
+.countdown-elearning-landing-pa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 862px;
+  height: 131px;
+}
+.countdown-elearning-landing-pa {
+  top: 2722px;
+  left: 289px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.images1,
+.shape {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-5xs);
+}
+.images1 {
+  left: 0;
+  width: 359px;
+  height: 393px;
+}
+.shape {
+  background-color: var(--color-lightcyan-100);
+  opacity: 0.35;
+}
+.images,
+.shape {
+  left: 0;
+  width: 359px;
+  height: 393px;
+}
+.card-child,
+.classes,
+.images {
+  position: absolute;
+  top: 0;
+}
+.card-child {
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 16px 90px rgba(0, 0, 0, 0.05);
+  width: 325px;
+  height: 195px;
+}
+.classes {
+  left: 16px;
+}
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  width: 6px;
+  height: 6px;
+}
+.group-inner {
+  left: 102px;
+}
+.classes-parent,
+.months {
+  position: absolute;
+  top: 0;
+  left: 118px;
+}
+.classes-parent {
+  top: 145px;
+  left: 25px;
+  width: 182px;
+  height: 21px;
+}
+.web-design-basic {
+  position: absolute;
+  top: 106px;
+  left: 25px;
+}
+.span1 {
+  color: var(--color-gray-200);
+}
+.b2 {
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+}
+.fee-200,
+.web-design {
+  position: absolute;
+  top: 67px;
+  left: 25px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+}
+.web-design {
+  top: 18px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+}
+.card {
+  position: absolute;
+  top: 322px;
+  left: 17px;
+  width: 325px;
+  height: 195px;
+}
+.card-01,
+.card-02 {
+  position: absolute;
+  top: 261px;
+  left: 0;
+  width: 359px;
+  height: 517px;
+}
+.card-02 {
+  left: 406px;
+}
+.span3 {
+  font-size: var(--font-size-xs);
+  color: #848985;
+}
+.card-03 {
+  position: absolute;
+  top: 261px;
+  left: 812px;
+  width: 359px;
+  height: 517px;
+}
+.view-all-courses {
+  position: absolute;
+  top: 139px;
+  left: 1051px;
+  text-decoration: underline;
+  color: var(--color-darkturquoise);
+}
+.check-out-our {
+  position: absolute;
+  top: 118px;
+  left: 0;
+  font-size: var(--font-size-lg);
+  line-height: 32px;
+  display: inline-block;
+  width: 525px;
+}
+.popular-courses1 {
+  position: absolute;
+  top: 36px;
+  left: 0;
+  font-size: var(--font-size-23xl);
+  color: var(--color-gray-400);
+}
+.c-o-u,
+.texts {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.c-o-u {
+  font-size: var(--font-size-xs);
+}
+.texts {
+  width: 1170px;
+  height: 182px;
+  color: var(--color-gray-300);
+}
+.courses,
+.courses-elearning-landing-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1171px;
+  height: 778px;
+}
+.courses-elearning-landing-page {
+  top: 1679px;
+  left: 135px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.we-give-every {
+  top: 178px;
+  line-height: 27px;
+  display: inline-block;
+  width: 224px;
+}
+.icon1,
+.task,
+.we-give-every {
+  position: absolute;
+  left: 0;
+}
+.task {
+  top: 132px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-gray-400);
+}
+.icon1 {
+  top: 0;
+  width: 102px;
+  height: 106px;
+}
+.we-give-every-of-our-students-parent {
+  position: absolute;
+  top: 0;
+  left: 800px;
+  width: 224px;
+  height: 259px;
+}
+.conversation-with-teachers {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  line-height: 27px;
+  display: inline-block;
+  width: 223px;
+}
+.conversation-with-teachers-or-parent {
+  position: absolute;
+  top: 0;
+  left: 377px;
+  width: 223px;
+  height: 259px;
+}
+.we-are-providing {
+  position: absolute;
+  top: 178px;
+  left: 0;
+  line-height: 27px;
+  display: inline-block;
+  width: 168px;
+}
+.features-section,
+.we-are-providing-live-classes-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 168px;
+  height: 259px;
+}
+.features-section {
+  top: 300px;
+  width: 1024px;
+}
+.read-our-awesome,
+.we-are-providing1 {
+  position: absolute;
+  top: 166px;
+  left: 1px;
+  display: inline-block;
+  width: 590px;
+}
+.we-are-providing1 {
+  top: 36px;
+  left: 0;
+  font-size: var(--font-size-23xl);
+  line-height: 56px;
+  color: var(--color-gray-400);
+  width: 577px;
+}
+.texts1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 591px;
+  height: 220px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+}
+.features-01,
+.features-01-elearning-landing {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1024px;
+  height: 559px;
+}
+.features-01-elearning-landing {
+  top: 990px;
+  left: 135px;
+  color: var(--color-darkgray-100);
+}
+.play-button-icon {
+  position: absolute;
+  top: 352px;
+  left: 186px;
+  width: 162px;
+  height: 162px;
+}
+.button-child,
+.button1 {
+  position: absolute;
+  left: 0;
+  width: 186px;
+  height: 68px;
+}
+.button-child {
+  top: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkturquoise);
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.05);
+}
+.button1 {
+  top: 377px;
+  text-align: center;
+}
+.build-skills-with,
+.words-learner-come {
+  position: absolute;
+  top: 229px;
+  left: 0;
+  line-height: 32px;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+  width: 374px;
+}
+.words-learner-come {
+  top: 39px;
+  font-size: var(--font-size-43xl);
+  line-height: 72px;
+  color: var(--color-gray-400);
+  width: 458px;
+}
+.easy-leaening-platform {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+}
+.text-elements {
+  position: absolute;
+  top: 243px;
+  left: 135px;
+  width: 458px;
+  height: 445px;
+}
+.pexels-andrea-piacquadio-38088 {
+  background-color: #e0f7f6;
+}
+.card-inner,
+.images6,
+.pexels-andrea-piacquadio-38088,
+.pexels-andrea-piacquadio-380881 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 576px;
+  height: 631px;
+}
+.card-inner,
+.images6 {
+  left: 65px;
+}
+.card-inner {
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-gray-100);
+  box-shadow: 0 12px 80px rgba(0, 0, 0, 0.05);
+  width: 207px;
+  height: 90px;
+}
+.our-active-students {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.group-icon {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 33px;
+  height: 33px;
+}
+.group-child4 {
+  position: absolute;
+  left: 26px;
+}
+.group-child4,
+.group-child5,
+.group-child6 {
+  top: 23px;
+  width: 33px;
+  height: 33px;
+}
+.group-child5 {
+  position: absolute;
+  left: 52px;
+}
+.group-child6 {
+  left: 78px;
+}
+.ellipse-div,
+.group-child6,
+.k {
+  position: absolute;
+}
+.ellipse-div {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-darkturquoise);
+  width: 33px;
+  height: 33px;
+}
+.k {
+  top: 9px;
+  left: 5px;
+  font-weight: 500;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 23px;
+  left: 104px;
+  width: 33px;
+  height: 33px;
+  text-align: center;
+  color: var(--color-white);
+}
+.our-active-students-parent {
+  position: absolute;
+  top: 17px;
+  left: 35px;
+  width: 137px;
+  height: 56px;
+}
+.card3,
+.rectangle-div {
+  position: absolute;
+  top: 500px;
+  left: 389px;
+  width: 207px;
+  height: 90px;
+}
+.rectangle-div {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-white);
+  box-shadow: 0 10px 80px rgba(0, 0, 0, 0.05);
+  width: 124px;
+  height: 132px;
+}
+.card-child1,
+.group-child7,
+.group-child8 {
+  position: absolute;
+  top: 103px;
+  left: 49px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-whitesmoke);
+  width: 26px;
+  height: 6px;
+}
+.group-child7,
+.group-child8 {
+  top: 0;
+  left: 0;
+  width: 74px;
+}
+.group-child8 {
+  background-color: var(--color-lightcoral);
+  width: 39px;
+}
+.group-child10,
+.rectangle-parent {
+  position: absolute;
+  top: 47px;
+  left: 25px;
+  width: 74px;
+  height: 6px;
+}
+.group-child10 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-lightcoral);
+  width: 51px;
+}
+.group-child12,
+.rectangle-group {
+  position: absolute;
+  top: 65px;
+  left: 25px;
+  width: 74px;
+  height: 6px;
+}
+.group-child12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-lightcoral);
+  width: 33px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 81px;
+  left: 25px;
+  width: 74px;
+  height: 6px;
+}
+.schedules {
+  position: absolute;
+  top: 16px;
+  left: 36px;
+  font-weight: 500;
+}
+.card-child2,
+.card4 {
+  position: absolute;
+  top: 453px;
+  left: 0;
+  width: 124px;
+  height: 132px;
+}
+.card-child2 {
+  top: 0;
+  border-radius: 18px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 10px 80px rgba(0, 0, 0, 0.05);
+  width: 157px;
+  height: 75px;
+}
+.book-icon,
+.book-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 40px;
+}
+.book-icon1 {
+  top: 28px;
+  left: 4px;
+  border-radius: 4px;
+  width: 28px;
+  height: 4px;
+}
+.courses-1000 {
+  position: absolute;
+  top: 5px;
+  left: 52px;
+  font-weight: 500;
+  display: inline-block;
+  width: 55px;
+}
+.book-parent,
+.card5,
+.content {
+  position: absolute;
+  top: 17px;
+  left: 25px;
+  width: 107px;
+  height: 40px;
+}
+.card5,
+.content {
+  top: 149px;
+  width: 157px;
+  height: 75px;
+}
+.content {
+  top: 150px;
+  left: 664px;
+  width: 641px;
+  height: 631px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-400);
+}
+.logo-icon1 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 127px;
+  height: 37px;
+}
+.features,
+.home {
+  position: absolute;
+  top: 0;
+}
+.home {
+  left: 0;
+  font-weight: 600;
+}
+.features {
+  left: 88px;
+}
+.about1,
+.contact,
+.pricing {
+  position: absolute;
+  top: 0;
+  left: 198px;
+}
+.about1,
+.contact {
+  left: 292px;
+}
+.contact {
+  left: 380px;
+}
+.home-parent,
+.sign-in {
+  position: absolute;
+  top: 12px;
+}
+.home-parent {
+  left: 362px;
+  width: 446px;
+  height: 24px;
+  text-align: left;
+}
+.sign-in {
+  left: 985px;
+  color: #494949;
+}
+.button-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6px;
+  border: 1px solid var(--color-darkturquoise);
+  box-sizing: border-box;
+  width: 108px;
+  height: 48px;
+}
+.sign-up {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+  font-weight: 600;
+}
+.button2,
+.menu {
+  position: absolute;
+  top: 0;
+  left: 1062px;
+  width: 108px;
+  height: 48px;
+  color: var(--color-darkturquoise);
+}
+.menu {
+  top: 52px;
+  left: 135px;
+  width: 1170px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+}
+.header,
+.hero-elearning-landing-page-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 860px;
+}
+.hero-elearning-landing-page-8 {
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.elearning-landing-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4493px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  font-family: var(--font-poppins);
+}
